@@ -4,6 +4,7 @@
 <div id="header" align="right" style="font-style: italic; color:gray">
 <p>- photo by: jcom on Freepik</p>
 </div>
+
 # Xin chao, I am Anh! 👋
 
 I'm a third-year data science major seeking opportunities in the data field.
