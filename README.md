@@ -44,6 +44,6 @@ I'm a third-year data science major seeking opportunities in the data field.
 
 ## Contact Me
 
-Feel free to reach out to me via [email](mailto:anhtran20.dng@domain.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/anhtran20/).
+I am willing to learn new things and meet new people. Please feel free to reach out to me via [email](mailto:anhtran20.dng@domain.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/anhtran20/).
 
 Looking forward to connecting with you!
